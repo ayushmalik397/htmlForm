@@ -5,4 +5,9 @@ body {
 #comeNav {
   background-color: #e3f2fd;
   margin-bottom: 10vh;
+  height: 10vh;
+}
+
+.navText{
+  margin-left: 3vw;
 }
